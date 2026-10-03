@@ -1,0 +1,15 @@
+{
+  "name": "netease-qr-server",
+  "version": "1.0.0",
+  "description": "网易云音乐扫码登录中转服务（N86 J2ME 客户端专用）",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
